@@ -4,12 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=道德经+%7C+DAO+DE+JING;SANDRO+TOLEDO+%7C+修真者;EL+CAMINO+DEL+CÓDIGO" alt="Header"/>
 </h1>
 </div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=header"/>
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&pause=2000&color=FF6B35&center=true&vCenter=true&width=600&lines=SANDRO+TOLEDO;修真者+CULTIVADOR;道德经+DAO+DE+JING" alt="Header"/>
-</h1>
-</div>
 
 <!-- Filosofía del Dao -->
 <div align="center">
