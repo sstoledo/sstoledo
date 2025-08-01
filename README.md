@@ -5,6 +5,7 @@
 </h1>
 </div>
 
+<!-- Filosofía del Dao -->
 <div align="center">
 
 [![Dao Card](https://img.shields.io/badge/道生一-Del_Vacío_nace_la_Unidad-FF6B35?style=for-the-badge&logo=yin-yang&logoColor=white)](https://github.com/tu-usuario)
@@ -12,18 +13,6 @@
 [![Infinity Card](https://img.shields.io/badge/二生三-De_la_Dualidad_nace_Todo-667eea?style=for-the-badge&logo=infinity&logoColor=white)](https://github.com/tu-usuario)
 
 </div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/☯_道生一-Del_Vacío_nace_la_Unidad-FF6B35?style=plastic&labelColor=2D3748&color=FF6B35" height="80"/>
-
-<img src="https://img.shields.io/badge/⚡_一生二-De_la_Unidad_nace_la_Dualidad-4ECDC4?style=plastic&labelColor=2D3748&color=4ECDC4" height="80"/>
-
-<img src="https://img.shields.io/badge/∞_二生三-De_la_Dualidad_nace_Todo-667eea?style=plastic&labelColor=2D3748&color=667eea" height="80"/>
-
-</div>
-
-
 
 <!-- Navegación tipo botón moderno -->
 <div align="center">
