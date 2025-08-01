@@ -143,7 +143,7 @@
 
 <div style="background: linear-gradient(45deg, #96CEB4, #FFEAA7); padding: 15px; border-radius: 10px; margin: 5px;">
 <h4 style="color: white; margin: 5px 0;">📊 Datos Ancestrales</h4>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,sqlserver" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
 </div>
 
 </td>
