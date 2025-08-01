@@ -79,30 +79,28 @@
 <td width="60%">
 
 <!-- Panel de estado con HTML -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
-
-<h3>🌟 Estado Actual del Cultivo</h3>
-
-<table width="100%" style="color: white;">
-
-<tr>
-<td><strong>🎯 Enfoque Principal:</strong></td>
-<td>Arquitecturas Distribuidas & Cloud Native</td>
-</tr>
-<tr>
-<td><strong>🔬 Investigando:</strong></td>
-<td>Event Sourcing, CQRS, Microservicios</td>
-</tr>
-<tr>
-<td><strong>📚 Estudiando:</strong></td>
-<td>Domain-Driven Design, Clean Architecture</td>
-</tr>
-<tr>
-<td><strong>🌱 Creciendo en:</strong></td>
-<td>Kubernetes, Terraform, Observabilidad</td>
-</tr>
-</table>
-
+<div style="background: linear-gradient(135deg, #232526 0%, #414345 100%); border-radius: 18px; padding: 24px; box-shadow: 0 4px 24px #0002; margin: 20px 0;">
+  <h3 style="color: #FF6B35; text-align:center; letter-spacing:2px; font-size:1.5em; margin-bottom: 18px;">
+    🌟 Estado Actual del Cultivo
+  </h3>
+  <table width="100%" style="color: #fff; font-size:1.08em;">
+    <tr>
+      <td style="padding: 6px 0;"><strong>🎯 Enfoque Principal:</strong></td>
+      <td style="padding: 6px 0;">Aprender bases sólidas de desarrollo web moderno</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 0;"><strong>🔬 Explorando:</strong></td>
+      <td style="padding: 6px 0;">Next.js, Astro, React, Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 0;"><strong>📚 Estudiando:</strong></td>
+      <td style="padding: 6px 0;">NestJS, Laravel, buenas prácticas y patrones de backend</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 0;"><strong>🌱 Creciendo en:</strong></td>
+      <td style="padding: 6px 0;">APIs REST, TypeScript, testing, despliegue en la nube</td>
+    </tr>
+  </table>
 </div>
 
 </td>
