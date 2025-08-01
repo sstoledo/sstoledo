@@ -230,7 +230,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sstoledo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=4ECDC4&include_all_commits=true&count_private=true&show_all_commits=true&disable_animations=false"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sstoledo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&show_all_commits=true"/>
 </td>
 <td width="50%">
 <img src="https://streak-stats.demolab.com?user=sstoledo&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=4ECDC4&fire=FF6B35&currStreakLabel=4ECDC4&sideLabels=4ECDC4&dates=FFFFFF"/>
@@ -264,11 +264,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-<!-- Gráfico de actividad detallado -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&bg_color=0d1117&color=4ECDC4&line=FF6B35&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
