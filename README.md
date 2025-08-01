@@ -244,9 +244,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&bg_color=0d1117&color=4ECDC4&line=FF6B35&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
 
-![Streak](https://streak-stats.demolab.com?user=sstoledo&theme=radical&hide_border=true)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&theme=radical&hide_border=true)
-
 <!-- Footer con estilo web -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
