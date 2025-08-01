@@ -10,41 +10,35 @@
 
 </div>
 
-<!-- Sección con HTML y CSS personalizado -->
+<!-- Filosofía del Dao -->
 <div align="center">
 <table>
 <tr>
-<td>
+<td width="33%" align="center">
 
-```html
-<div class="dao-card">
-  <div class="yin-yang">☯</div>
-  <h3>道生一</h3>
-  <p>Del Dao nace el Uno</p>
+<div style="background: linear-gradient(135deg, #FF6B35, #F7931E); padding: 25px; border-radius: 15px; margin: 10px; min-height: 120px;">
+<div style="font-size: 2.5em; margin-bottom: 10px;">☯</div>
+<h3 style="color: white; margin: 10px 0;">道生一</h3>
+<p style="color: white; font-style: italic;">Del Vacío nace<br>la Unidad</p>
 </div>
-```
 
 </td>
-<td>
+<td width="33%" align="center">
 
-```html
-<div class="dao-card">  
-  <div class="element">🔥</div>
-  <h3>一生二</h3>
-  <p>Del Uno nacen los Dos</p>
+<div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 25px; border-radius: 15px; margin: 10px; min-height: 120px;">
+<div style="font-size: 2.5em; margin-bottom: 10px;">⚡</div>
+<h3 style="color: white; margin: 10px 0;">一生二</h3>
+<p style="color: white; font-style: italic;">De la Unidad<br>nace la Dualidad</p>
 </div>
-```
 
 </td>
-<td>
+<td width="33%" align="center">
 
-```html
-<div class="dao-card">
-  <div class="infinity">∞</div>
-  <h3>二生三</h3>
-  <p>De los Dos nace el Tres</p>
+<div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 25px; border-radius: 15px; margin: 10px; min-height: 120px;">
+<div style="font-size: 2.5em; margin-bottom: 10px;">∞</div>
+<h3 style="color: white; margin: 10px 0;">二生三</h3>
+<p style="color: white; font-style: italic;">De la Dualidad<br>nace Todo</p>
 </div>
-```
 
 </td>
 </tr>
