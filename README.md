@@ -230,17 +230,17 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=4ECDC4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sstoledo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=4ECDC4"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=4ECDC4&fire=FF6B35&currStreakLabel=4ECDC4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sstoledo&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=4ECDC4&fire=FF6B35&currStreakLabel=4ECDC4"/>
 </td>
 </tr>
 </table>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&bg_color=0d1117&color=4ECDC4&line=FF6B35&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&bg_color=0d1117&color=4ECDC4&line=FF6B35&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
