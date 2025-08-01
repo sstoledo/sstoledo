@@ -230,15 +230,43 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sstoledo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=4ECDC4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sstoledo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=4ECDC4&include_all_commits=true&count_private=true&show_all_commits=true&disable_animations=false"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sstoledo&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=4ECDC4&fire=FF6B35&currStreakLabel=4ECDC4"/>
+<img src="https://streak-stats.demolab.com?user=sstoledo&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=4ECDC4&fire=FF6B35&currStreakLabel=4ECDC4&sideLabels=4ECDC4&dates=FFFFFF"/>
 </td>
 </tr>
 </table>
 </div>
 
+<!-- Activity Graph más preciso -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&bg_color=0d1117&color=4ECDC4&line=FF6B35&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+</div>
+
+<!-- Alternativa: Profile Summary Cards (más preciso) -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sstoledo&theme=radical"/>
+</div>
+
+---
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<!-- Cambiar a Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sstoledo&theme=radical"/>
+</td>
+<td width="50%">
+<!-- Streak Stats (más preciso) -->
+<img src="https://streak-stats.demolab.com?user=sstoledo&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=4ECDC4&fire=FF6B35&currStreakLabel=4ECDC4"/>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Gráfico de actividad detallado -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&bg_color=0d1117&color=4ECDC4&line=FF6B35&point=FFFFFF&area=true&hide_border=true"/>
 </div>
