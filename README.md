@@ -162,14 +162,18 @@
 
 <div style="border: 2px solid #FF6B35; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FFF5F5, #FFE5E5);">
 
-<h3>🌸 Jardín de Microservicios</h3>
+<h3>🚗 + 🔧 Cocos</h3>
 
-<p><strong>Descripción:</strong> Ecosistema distribuido que crece orgánicamente</p>
+<p><strong>Descripción:</strong>Proyecto de gestion de cliente e inventario para mecánica de automóviles</p>
 
 <div>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-3066FF?style=flat-square&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </div>
 
 <details>
@@ -177,9 +181,8 @@
 <br>
 <ul>
 <li>Arquitectura hexagonal</li>
-<li>Event-driven communication</li>
-<li>CQRS + Event Sourcing</li>
-<li>Observabilidad completa</li>
+<li>Despliegue en la nube</li>
+<li>Pronto mas cosas</li>
 </ul>
 </details>
 
