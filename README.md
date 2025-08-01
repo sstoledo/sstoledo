@@ -119,7 +119,7 @@
 
 <div style="background: linear-gradient(45deg, #FF6B35, #F7931E); padding: 15px; border-radius: 10px; margin: 5px;">
 <h4 style="color: white; margin: 5px 0;">🔥 Forja Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,typescript,tailwind" />
 </div>
 
 </td>
@@ -127,7 +127,7 @@
 
 <div style="background: linear-gradient(45deg, #4ECDC4, #44A08D); padding: 15px; border-radius: 10px; margin: 5px;">
 <h4 style="color: white; margin: 5px 0;">🌊 Corriente Backend</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,python,go,rust" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,springboot,java" />
 </div>
 
 </td>
@@ -135,7 +135,7 @@
 
 <div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 15px; border-radius: 10px; margin: 5px;">
 <h4 style="color: white; margin: 5px 0;">☁️ Nubes Celestiales</h4>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" />
 </div>
 
 </td>
@@ -143,7 +143,7 @@
 
 <div style="background: linear-gradient(45deg, #96CEB4, #FFEAA7); padding: 15px; border-radius: 10px; margin: 5px;">
 <h4 style="color: white; margin: 5px 0;">📊 Datos Ancestrales</h4>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,sql" />
 </div>
 
 </td>
