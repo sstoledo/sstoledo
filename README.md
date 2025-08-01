@@ -5,35 +5,10 @@
 </h1>
 </div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B35,50:4ECDC4,100:667eea&height=150&section=header&text=SANDRO%20TOLEDO&fontSize=50&fontColor=ffffff&desc=修真者%20|%20Cultivador%20del%20Código&descSize=20&descAlignY=75"/>
-</div>
-<div align="center">
-<table width="100%" style="border: none;">
-<tr>
-<td width="30%" align="right" style="font-size: 3em; color: #FF6B35;">道</td>
-<td width="40%" align="center">
-<h1 style="color: #FF6B35; font-size: 2.5em; margin: 0;">SANDRO TOLEDO</h1>
-<p style="color: #4ECDC4; font-size: 1.2em; margin: 5px 0;">修真者 | Cultivador Digital</p>
-</td>
-<td width="30%" align="left" style="font-size: 3em; color: #FF6B35;">德</td>
-</tr>
-</table>
-</div>
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=header"/>
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&pause=2000&color=FF6B35&center=true&vCenter=true&width=600&lines=SANDRO+TOLEDO;修真者+CULTIVADOR;道德经+DAO+DE+JING" alt="Header"/>
 </h1>
-</div>
-<div align="center">
-<br>
-<h1 style="font-size: 3em; color: #FF6B35; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-道 SANDRO TOLEDO 德
-</h1>
-<p style="font-size: 1.3em; color: #4ECDC4; font-style: italic;">
-修真者 | El Camino del Desarrollador
-</p>
-<hr style="width: 60%; border: 1px solid #FF6B35; margin: 20px auto;">
 </div>
 
 <!-- Filosofía del Dao -->
