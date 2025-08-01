@@ -62,8 +62,8 @@
 <p><em>"El código es poesía en movimiento"</em></p>
 
 <div>
-<img src="https://img.shields.io/badge/Nivel-金丹期-FFD700?style=flat-square"/>
-<img src="https://img.shields.io/badge/Secta-代码山庄-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nivel-空-FFD700?style=flat-square" title="Vacío (Void)"/>
+<img src="https://img.shields.io/badge/Secta-萧-8A2BE2?style=flat-square" title="Xiao"/>
 </div>
 
 </div>
