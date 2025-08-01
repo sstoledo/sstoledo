@@ -7,9 +7,9 @@
 <!-- Filosofía del Dao -->
 <div align="center">
 
-[![Dao Card](https://img.shields.io/badge/道生一-Del_Vacío_nace_la_Unidad-FF6B35?style=for-the-badge&logo=yin-yang&logoColor=white)](https://github.com/tu-usuario)
-[![Unity Card](https://img.shields.io/badge/一生二-De_la_Unidad_nace_la_Dualidad-4ECDC4?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/tu-usuario)
-[![Infinity Card](https://img.shields.io/badge/二生三-De_la_Dualidad_nace_Todo-667eea?style=for-the-badge&logo=infinity&logoColor=white)](https://github.com/tu-usuario)
+[![Dao Card](https://img.shields.io/badge/道生一-Del_Vacío_nace_la_Unidad-FF6B35?style=for-the-badge&logo=yin-yang&logoColor=white)](https://github.com/sstoledo)
+[![Unity Card](https://img.shields.io/badge/一生二-De_la_Unidad_nace_la_Dualidad-4ECDC4?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/sstoledo)
+[![Infinity Card](https://img.shields.io/badge/二生三-De_la_Dualidad_nace_Todo-667eea?style=for-the-badge&logo=infinity&logoColor=white)](https://github.com/sstoledo)
 
 </div>
 
@@ -52,7 +52,7 @@
 <td width="40%">
 
 <div align="center">
-<img src="https://github.com/tu-usuario.png" width="200" style="border-radius: 50%; border: 4px solid #FF6B35;"/>
+<img src="https://github.com/sstoledo.png" width="200" style="border-radius: 50%; border: 4px solid #FF6B35;"/>
 
 <h2 style="color: #FF6B35; margin: 10px 0;">
 🧘‍♂️ 修真者
