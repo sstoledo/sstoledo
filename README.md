@@ -66,7 +66,7 @@
 🧘‍♂️ 修真者
 </h2>
 
-<p><em>"El código es poesía en movimiento"</em></p>
+<p><em>"En el equilibrio entre lógica y creatividad nace la magia"</em></p>
 
 <div>
 <img src="https://img.shields.io/badge/Nivel-空-FFD700?style=flat-square" title="Vacío (Void)"/>
