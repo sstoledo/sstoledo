@@ -49,17 +49,25 @@
 <div align="center">
 <table border="0">
 <tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/-%F0%9F%8F%AE%20INICIO-FF6B35?style=for-the-badge&logoColor=white"/>
+<td align="center" width="25%" style="padding: 10px;">
+  <a href="#inicio">
+    <img src="https://img.shields.io/badge/🏠%20INICIO-FF6B35?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Inicio" width="140"/>
+  </a>
 </td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/-%F0%9F%97%A1%EF%B8%8F%20HABILIDADES-4ECDC4?style=for-the-badge&logoColor=white"/>
+<td align="center" width="25%" style="padding: 10px;">
+  <a href="#🗡️-arsenal-de-técnicas-místicas">
+    <img src="https://img.shields.io/badge/🛠️%20HABILIDADES-4ECDC4?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Habilidades" width="140"/>
+  </a>
 </td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/-%F0%9F%93%9C%20PROYECTOS-45B7D1?style=for-the-badge&logoColor=white"/>
+<td align="center" width="25%" style="padding: 10px;">
+  <a href="#🏯-templos-de-código">
+    <img src="https://img.shields.io/badge/📦%20PROYECTOS-45B7D1?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Proyectos" width="140"/>
+  </a>
 </td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/-%F0%9F%93%A7%20CONTACTO-96CEB4?style=for-the-badge&logoColor=white"/>
+<td align="center" width="25%" style="padding: 10px;">
+  <a href="#🌸-caminos-de-comunicación">
+    <img src="https://img.shields.io/badge/✉️%20CONTACTO-96CEB4?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Contacto" width="140"/>
+  </a>
 </td>
 </tr>
 </table>
