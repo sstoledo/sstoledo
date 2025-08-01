@@ -1,4 +1,3 @@
-## INICIO
 <div align="center">
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=道德经+%7C+DAO+DE+JING;SANDRO+TOLEDO+%7C+修真者;EL+CAMINO+DEL+CÓDIGO" alt="Header"/>
@@ -19,13 +18,6 @@
 
 <table style="border-collapse:separate; border-spacing:15px 0;">
   <tr>
-    <td>
-      <a href="#inicio" style="text-decoration:none;">
-        <div style="background:#FF6B35; color:#fff; font-weight:bold; letter-spacing:2px; border-radius:5px; padding:12px 32px; font-size:1.1em; box-shadow:0 2px 8px #0001; display:flex; align-items:center; gap:8px;">
-          🏠 INICIO
-        </div>
-      </a>
-    </td>
     <td>
       <a href="#🗡️-arsenal-de-técnicas-místicas" style="text-decoration:none;">
         <div style="background:#4ECDC4; color:#fff; font-weight:bold; letter-spacing:2px; border-radius:5px; padding:12px 32px; font-size:1.1em; box-shadow:0 2px 8px #0001; display:flex; align-items:center; gap:8px;">
