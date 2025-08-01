@@ -5,113 +5,22 @@
 </h1>
 </div>
 
-
-<!-- Filosofía del Dao -->
 <div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
 
-<div style="background: linear-gradient(135deg, #FF6B35, #F7931E); padding: 30px; border-radius: 20px; margin: 15px; min-height: 140px; box-shadow: 0 8px 16px rgba(255, 107, 53, 0.3); border: 2px solid rgba(255, 255, 255, 0.2);">
-<div style="font-size: 3em; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☯</div>
-<h3 style="color: white; margin: 15px 0; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">道生一</h3>
-<p style="color: rgba(255,255,255,0.9); font-style: italic; line-height: 1.4;">Del Vacío nace<br>la <strong>Unidad</strong></p>
+[![Dao Card](https://img.shields.io/badge/道生一-Del_Vacío_nace_la_Unidad-FF6B35?style=for-the-badge&logo=yin-yang&logoColor=white)](https://github.com/tu-usuario)
+[![Unity Card](https://img.shields.io/badge/一生二-De_la_Unidad_nace_la_Dualidad-4ECDC4?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/tu-usuario)
+[![Infinity Card](https://img.shields.io/badge/二生三-De_la_Dualidad_nace_Todo-667eea?style=for-the-badge&logo=infinity&logoColor=white)](https://github.com/tu-usuario)
+
 </div>
 
-</td>
-<td width="33%" align="center">
-
-<div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 30px; border-radius: 20px; margin: 15px; min-height: 140px; box-shadow: 0 8px 16px rgba(78, 205, 196, 0.3); border: 2px solid rgba(255, 255, 255, 0.2);">
-<div style="font-size: 3em; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">⚡</div>
-<h3 style="color: white; margin: 15px 0; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">一生二</h3>
-<p style="color: rgba(255,255,255,0.9); font-style: italic; line-height: 1.4;">De la Unidad<br>nace la <strong>Dualidad</strong></p>
-</div>
-
-</td>
-<td width="33%" align="center">
-
-<div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 30px; border-radius: 20px; margin: 15px; min-height: 140px; box-shadow: 0 8px 16px rgba(102, 126, 234, 0.3); border: 2px solid rgba(255, 255, 255, 0.2);">
-<div style="font-size: 3em; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">∞</div>
-<h3 style="color: white; margin: 15px 0; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">二生三</h3>
-<p style="color: rgba(255,255,255,0.9); font-style: italic; line-height: 1.4;">De la Dualidad<br>nace <strong>Todo</strong></p>
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Filosofía del Dao -->
-<div align="center" style="background: linear-gradient(45deg, #0d1117, #161b22); padding: 20px; border-radius: 15px;">
-<table>
-<tr>
-<td width="33%" align="center">
-
-<div style="background: rgba(255, 107, 53, 0.15); backdrop-filter: blur(10px); padding: 35px; border-radius: 25px; margin: 20px; min-height: 150px; border: 1px solid rgba(255, 107, 53, 0.3);">
-<div style="font-size: 3.5em; margin-bottom: 20px; filter: drop-shadow(0 0 10px rgba(255, 107, 53, 0.5));">☯</div>
-<h3 style="color: #FF6B35; margin: 15px 0; font-weight: bold; font-size: 1.4em;">道生一</h3>
-<p style="color: #FFFFFF; font-style: italic; line-height: 1.5; opacity: 0.9;">Del Vacío nace<br>la <em>Unidad</em></p>
-</div>
-
-</td>
-<td width="33%" align="center">
-
-<div style="background: rgba(78, 205, 196, 0.15); backdrop-filter: blur(10px); padding: 35px; border-radius: 25px; margin: 20px; min-height: 150px; border: 1px solid rgba(78, 205, 196, 0.3);">
-<div style="font-size: 3.5em; margin-bottom: 20px; filter: drop-shadow(0 0 10px rgba(78, 205, 196, 0.5));">⚡</div>
-<h3 style="color: #4ECDC4; margin: 15px 0; font-weight: bold; font-size: 1.4em;">一生二</h3>
-<p style="color: #FFFFFF; font-style: italic; line-height: 1.5; opacity: 0.9;">De la Unidad<br>nace la <em>Dualidad</em></p>
-</div>
-
-</td>
-<td width="33%" align="center">
-
-<div style="background: rgba(102, 126, 234, 0.15); backdrop-filter: blur(10px); padding: 35px; border-radius: 25px; margin: 20px; min-height: 150px; border: 1px solid rgba(102, 126, 234, 0.3);">
-<div style="font-size: 3.5em; margin-bottom: 20px; filter: drop-shadow(0 0 10px rgba(102, 126, 234, 0.5));">∞</div>
-<h3 style="color: #667eea; margin: 15px 0; font-weight: bold; font-size: 1.4em;">二生三</h3>
-<p style="color: #FFFFFF; font-style: italic; line-height: 1.5; opacity: 0.9;">De la Dualidad<br>nace <em>Todo</em></p>
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Filosofía del Dao -->
 <div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
 
-<div style="background: #FFFFFF; padding: 40px 25px; border-radius: 18px; margin: 15px; min-height: 160px; box-shadow: 0 10px 25px rgba(255, 107, 53, 0.2); border-left: 5px solid #FF6B35;">
-<div style="font-size: 4em; margin-bottom: 20px; color: #FF6B35;">☯</div>
-<h3 style="color: #2D3748; margin: 15px 0; font-weight: 700;">道生一</h3>
-<p style="color: #718096; font-style: italic; line-height: 1.6;">Del Vacío nace<br>la <strong style="color: #FF6B35;">Unidad</strong></p>
-<div style="width: 30px; height: 3px; background: #FF6B35; margin: 15px auto; border-radius: 2px;"></div>
-</div>
+<img src="https://img.shields.io/badge/☯_道生一-Del_Vacío_nace_la_Unidad-FF6B35?style=plastic&labelColor=2D3748&color=FF6B35" height="80"/>
 
-</td>
-<td width="33%" align="center">
+<img src="https://img.shields.io/badge/⚡_一生二-De_la_Unidad_nace_la_Dualidad-4ECDC4?style=plastic&labelColor=2D3748&color=4ECDC4" height="80"/>
 
-<div style="background: #FFFFFF; padding: 40px 25px; border-radius: 18px; margin: 15px; min-height: 160px; box-shadow: 0 10px 25px rgba(78, 205, 196, 0.2); border-left: 5px solid #4ECDC4;">
-<div style="font-size: 4em; margin-bottom: 20px; color: #4ECDC4;">⚡</div>
-<h3 style="color: #2D3748; margin: 15px 0; font-weight: 700;">一生二</h3>
-<p style="color: #718096; font-style: italic; line-height: 1.6;">De la Unidad<br>nace la <strong style="color: #4ECDC4;">Dualidad</strong></p>
-<div style="width: 30px; height: 3px; background: #4ECDC4; margin: 15px auto; border-radius: 2px;"></div>
-</div>
+<img src="https://img.shields.io/badge/∞_二生三-De_la_Dualidad_nace_Todo-667eea?style=plastic&labelColor=2D3748&color=667eea" height="80"/>
 
-</td>
-<td width="33%" align="center">
-
-<div style="background: #FFFFFF; padding: 40px 25px; border-radius: 18px; margin: 15px; min-height: 160px; box-shadow: 0 10px 25px rgba(102, 126, 234, 0.2); border-left: 5px solid #667eea;">
-<div style="font-size: 4em; margin-bottom: 20px; color: #667eea;">∞</div>
-<h3 style="color: #2D3748; margin: 15px 0; font-weight: 700;">二生三</h3>
-<p style="color: #718096; font-style: italic; line-height: 1.6;">De la Dualidad<br>nace <strong style="color: #667eea;">Todo</strong></p>
-<div style="width: 30px; height: 3px; background: #667eea; margin: 15px auto; border-radius: 2px;"></div>
-</div>
-
-</td>
-</tr>
-</table>
 </div>
 
 
