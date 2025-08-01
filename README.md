@@ -127,7 +127,7 @@
 
 <div style="background: linear-gradient(45deg, #4ECDC4, #44A08D); padding: 15px; border-radius: 10px; margin: 5px;">
 <h4 style="color: white; margin: 5px 0;">🌊 Corriente Backend</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,springboot,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,java" />
 </div>
 
 </td>
@@ -143,7 +143,7 @@
 
 <div style="background: linear-gradient(45deg, #96CEB4, #FFEAA7); padding: 15px; border-radius: 10px; margin: 5px;">
 <h4 style="color: white; margin: 5px 0;">📊 Datos Ancestrales</h4>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,sql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,sqlserver" />
 </div>
 
 </td>
