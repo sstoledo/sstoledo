@@ -244,29 +244,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&bg_color=0d1117&color=4ECDC4&line=FF6B35&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
 
-<!-- Alternativa: Profile Summary Cards (más preciso) -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sstoledo&theme=radical"/>
-</div>
-
----
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<!-- Cambiar a Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sstoledo&theme=radical"/>
-</td>
-<td width="50%">
-<!-- Streak Stats (más preciso) -->
-<img src="https://streak-stats.demolab.com?user=sstoledo&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=4ECDC4&fire=FF6B35&currStreakLabel=4ECDC4"/>
-</td>
-</tr>
-</table>
-</div>
-
----
+![Streak](https://streak-stats.demolab.com?user=sstoledo&theme=radical&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sstoledo&theme=radical&hide_border=true)
 
 <!-- Footer con estilo web -->
 <div align="center">
