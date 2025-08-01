@@ -45,32 +45,42 @@
 </table>
 </div>
 
-<!-- Navegación estilo web -->
+<!-- Navegación tipo botón moderno -->
 <div align="center">
-<table border="0">
-<tr>
-<td align="center" width="25%" style="padding: 10px;">
-  <a href="#inicio">
-    <img src="https://img.shields.io/badge/🏠%20INICIO-FF6B35?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Inicio" width="140"/>
-  </a>
-</td>
-<td align="center" width="25%" style="padding: 10px;">
-  <a href="#🗡️-arsenal-de-técnicas-místicas">
-    <img src="https://img.shields.io/badge/🛠️%20HABILIDADES-4ECDC4?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Habilidades" width="140"/>
-  </a>
-</td>
-<td align="center" width="25%" style="padding: 10px;">
-  <a href="#🏯-templos-de-código">
-    <img src="https://img.shields.io/badge/📦%20PROYECTOS-45B7D1?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Proyectos" width="140"/>
-  </a>
-</td>
-<td align="center" width="25%" style="padding: 10px;">
-  <a href="#🌸-caminos-de-comunicación">
-    <img src="https://img.shields.io/badge/✉️%20CONTACTO-96CEB4?style=for-the-badge&logoColor=white&labelColor=22223b" alt="Contacto" width="140"/>
-  </a>
-</td>
-</tr>
+
+<table style="border-collapse:separate; border-spacing:15px 0;">
+  <tr>
+    <td>
+      <a href="#inicio" style="text-decoration:none;">
+        <div style="background:#FF6B35; color:#fff; font-weight:bold; letter-spacing:2px; border-radius:5px; padding:12px 32px; font-size:1.1em; box-shadow:0 2px 8px #0001; display:flex; align-items:center; gap:8px;">
+          🏠 INICIO
+        </div>
+      </a>
+    </td>
+    <td>
+      <a href="#🗡️-arsenal-de-técnicas-místicas" style="text-decoration:none;">
+        <div style="background:#4ECDC4; color:#fff; font-weight:bold; letter-spacing:2px; border-radius:5px; padding:12px 32px; font-size:1.1em; box-shadow:0 2px 8px #0001; display:flex; align-items:center; gap:8px;">
+          🛠️ HABILIDADES
+        </div>
+      </a>
+    </td>
+    <td>
+      <a href="#🏯-templos-de-código" style="text-decoration:none;">
+        <div style="background:#45B7D1; color:#fff; font-weight:bold; letter-spacing:2px; border-radius:5px; padding:12px 32px; font-size:1.1em; box-shadow:0 2px 8px #0001; display:flex; align-items:center; gap:8px;">
+          📦 PROYECTOS
+        </div>
+      </a>
+    </td>
+    <td>
+      <a href="#🌸-caminos-de-comunicación" style="text-decoration:none;">
+        <div style="background:#96CEB4; color:#222; font-weight:bold; letter-spacing:2px; border-radius:5px; padding:12px 32px; font-size:1.1em; box-shadow:0 2px 8px #0001; display:flex; align-items:center; gap:8px;">
+          ✉️ CONTACTO
+        </div>
+      </a>
+    </td>
+  </tr>
 </table>
+
 </div>
 
 ---
