@@ -47,6 +47,7 @@
 ---
 
 <!-- Card de perfil con HTML -->
+<div align="center">
 <table width="100%">
 <tr>
 <td width="40%">
@@ -76,6 +77,7 @@
 <h3>🌟 Estado Actual del Cultivo</h3>
 
 <table width="100%" style="color: white;">
+
 <tr>
 <td><strong>🎯 Enfoque Principal:</strong></td>
 <td>Arquitecturas Distribuidas & Cloud Native</td>
@@ -99,6 +101,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
