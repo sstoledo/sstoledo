@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Banner principal con gradiente -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=%E4%BF%AE%E7%9C%9F%E8%80%85%20%7C%20CULTIVADOR&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=%E4%BF%AE%E7%9C%9F%E8%80%85%20%7C%20SANDRO TOLEDO&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
