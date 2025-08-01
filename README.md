@@ -254,12 +254,12 @@
 <table>
 <tr>
 <td align="center">
-<a href="mailto:tu-email@dominio.com">
+<a href="mailto:toledosandro59@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF6B35?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
 <td align="center">
-<a href="https://linkedin.com/in/tu-perfil">
+<a href="https://linkedin.com/in/sandro-adrian-toledo-medina-5783892a9/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
@@ -283,10 +283,8 @@
 
 <div style="background: linear-gradient(90deg, #FF6B35, #4ECDC4, #45B7D1); padding: 2px; border-radius: 25px; margin: 20px auto; width: 80%;">
 <div style="background: #0d1117; padding: 15px; border-radius: 23px; text-align: center;">
-<h4 style="color: #FF6B35; margin: 5px 0;">💫 道德经</h4>
-<p style="color: #FFFFFF; font-style: italic; margin: 5px 0;">
-"知者不言，言者不知"<br>
-<em>El que sabe no habla, el que habla no sabe</em>
+<h4 style="color: #FF6B35; margin: 5px 0;">🌱 道德经</h4>
+<em>La sabiduría comienza cuando admitimos que podemos estar equivocados</em>
 </p>
 </div>
 </div>
