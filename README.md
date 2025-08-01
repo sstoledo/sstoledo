@@ -1,7 +1,7 @@
+# 道德经 | DAO DE JING
+
 <div align="center">
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=道德经+%7C+DAO+DE+JING;SANDRO+TOLEDO+%7C+修真者;EL+CAMINO+DEL+CÓDIGO" alt="Header"/>
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=道德经+%7C+DAO+DE+JING;SANDRO+TOLEDO+%7C+修真者;EL+CAMINO+DEL+CÓDIGO" alt="Header"/>
 </div>
 
 <!-- Filosofía del Dao -->
