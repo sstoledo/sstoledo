@@ -250,11 +250,52 @@
 
 <h3>🌸 Caminos de Comunicación</h3>
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="mailto:tu-email@dominio.com">
+<img src="https://img.shields.io/badge/📧_Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A2A2A"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://linkedin.com/in/tu-perfil">
+<img src="https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2A2A2A"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://twitter.com/tu-usuario">
+<img src="https://img.shields.io/badge/🐦_Twitter-45B7D1?style=for-the-badge&logo=x&logoColor=white&labelColor=2A2A2A"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<a href="mailto:tu-email@dominio.com">
+<img src="https://img.shields.io/badge/✉️_Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/tu-perfil">
+<img src="https://img.shields.io/badge/🔗_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/tu-usuario">
+<img src="https://img.shields.io/badge/🚀_Twitter-45B7D1?style=for-the-badge&logo=x&logoColor=white&labelColor=transparent"/>
+</a>
+</div>
+
+---
+
+<div align="center">
 <table>
 <tr>
 <td align="center">
 <a href="mailto:tu-email@dominio.com">
-<img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF6B35?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
 <td align="center">
@@ -264,11 +305,49 @@
 </td>
 <td align="center">
 <a href="https://twitter.com/tu-usuario">
-<img src="https://img.shields.io/badge/Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-45B7D1?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/sstoledo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<div align="center">
+<p>
+<a href="mailto:tu-email@dominio.com">
+<img src="https://img.shields.io/badge/📧_CONTACT-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://linkedin.com/in/tu-perfil">
+<img src="https://img.shields.io/badge/💼_CONNECT-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://twitter.com/tu-usuario">
+<img src="https://img.shields.io/badge/🌐_FOLLOW-45B7D1?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117"/>
+</a>
+</p>
+</div>
+
+---
+
+<div align="center">
+<p>
+<a href="mailto:tu-email@dominio.com">
+<img src="https://custom-icon-badges.demolab.com/badge/-Email-FF6B35?style=for-the-badge&logo=mail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/tu-perfil">
+<img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/tu-usuario">
+<img src="https://custom-icon-badges.demolab.com/badge/-Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+</p>
+</div>
 
 <br>
 
